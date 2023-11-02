@@ -1,22 +1,19 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
+  title: 'LeosunBlog',
   author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  headerTitle: "Leosun'Blog",
+  description: '行走与云端，凝视远山。',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://leosun.cc',
+  siteRepo: 'https://github.com/NewYorkDoll/leosun.cc',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'ls@leosun.cc',
+  github: 'https://github.com/NewYorkDoll',
+  twitter: 'https://twitter.com/leosun_cc',
+  youtube: 'https://youtube.com/@youyuxi',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
